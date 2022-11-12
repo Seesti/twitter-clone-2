@@ -1,0 +1,21 @@
+[debug] [2022-11-12T16:41:13.973Z] ----------------------------------------------------------------------
+[debug] [2022-11-12T16:41:13.974Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\seeti\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-12T16:41:13.975Z] CLI Version:   11.16.0
+[debug] [2022-11-12T16:41:13.975Z] Platform:      win32
+[debug] [2022-11-12T16:41:13.975Z] Node Version:  v18.12.0
+[debug] [2022-11-12T16:41:13.976Z] Time:          Sat Nov 12 2022 18:41:13 GMT+0200 (Itä-Euroopan normaaliaika)
+[debug] [2022-11-12T16:41:13.976Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-12T16:41:13.983Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-12T16:41:13.984Z] > authorizing via signed-in user (seeti.oinonen@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\seeti\OneDrive\Työpöytä\twitter-clone-2
+
